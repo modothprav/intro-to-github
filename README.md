@@ -19,6 +19,8 @@ Simple Introduction to version control on GitHub
 ### Personal Bio - About me
 - My name is Pravin Modotholi, I am 21 years old
 - Born in India on 29th August 2000
+
+### Education
 - Primary: School St. Augustines High School
 - Intermediate: Fergusson Intermediate 
 - College: Upper Hutt College
