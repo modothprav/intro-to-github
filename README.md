@@ -15,3 +15,7 @@ Simple Introduction to version control on GitHub
 - JavaScript
 - HTML/CSS
 - Bash
+
+### Personal Bio - About me
+- My name is Pravin Modotholi, I am 21 years old
+- Born in India on 29th August 2000
